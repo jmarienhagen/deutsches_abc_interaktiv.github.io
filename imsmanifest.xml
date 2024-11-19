@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="00" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="editor.exportDialog.defaults.authorName">
+    <organization identifier="editor.exportDialog.defaults.authorName">
+      <title>Das deutsche ABC interaktiv</title>
+      <item identifier="item_00" identifierref="resource_00">
+        <title>Das deutsche ABC interaktiv</title>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+        <metadata>
+          <schema>ADL SCORM</schema>
+          <schemaversion>1.2</schemaversion>
+          <adlcp:location>metadata.xml</adlcp:location>
+        </metadata>
+      </item>
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <metadata>
+      <schema>ADL SCORM</schema>
+      <schemaversion>1.2</schemaversion>
+      <adlcp:location>metadata.xml</adlcp:location>
+    </metadata>
+    <resource identifier="resource_00" type="webcontent" href="index.html" adlcp:scormtype="sco">
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <file href="SCORM_API_wrapper.js"/>
+      <file href="audios/file--4d0NKXSjlYWIQ9k-4IAmjdwG.mp3"/>
+      <file href="audios/file--dR3aJZY8wBOvwXO-7eAPwvPx.mp3"/>
+      <file href="audios/file--zKLzlKd0j0mbDix.mp3"/>
+      <file href="audios/file-0QlMgTE-QVDk25-5-MYVMMSgh.mp3"/>
+      <file href="audios/file-0py_Dj4LDktyWkzw-dGfjBmfv.mp3"/>
+      <file href="audios/file-4JxLtXbvpIsULn3p.wav"/>
+      <file href="audios/file-4a8cqPVI1Y_8pKNn-8lhbo95u.mp3"/>
+      <file href="audios/file-73C4UVoccDq-ab_f.wav"/>
+      <file href="audios/file-7mZQ5o-os9uvVezG.mp3"/>
+      <file href="audios/file-88_RmKIT45-5uG1x.mp3"/>
+      <file href="audios/file-BIenPAJFjzrABN7H.mp3"/>
+      <file href="audios/file-BRiRMCGo1fvkPktw.mp3"/>
+      <file href="audios/file-BWUOD2OZ0RntQeVv-VAslZg1a.mp3"/>
+      <file href="audios/file-By7S7n_n0vBbQYhR-1ADAVgCX.mp3"/>
+      <file href="audios/file-BzFAGwDJRWkVt4rl-6Rr37C9S.mp3"/>
+      <file href="audios/file-CGnIVIoW8SywIEA7.mp3"/>
+      <file href="audios/file-D0N8Zitm.mp3"/>
+      <file href="audios/file-DHKRnoMK.mp3"/>
+      <file href="audios/file-DTR8y_kKR9oQFOjk.mp3"/>
+      <file href="audios/file-EnZyqWkr84zXn8I0-lp1N1gX4.mp3"/>
+      <file href="audios/file-FEg7wW80_Cw8rcP5-25ihWfXw.mp3"/>
+      <file href="audios/file-G6Ign3cI.mp3"/>
+      <file href="audios/file-GBvvOxIAU54c0NrZ.mp3"/>
+      <file href="audios/file-GPct6wib.mp3"/>
+      <file href="audios/file-Gq0KqHjjFKKq7qWE-ufBNTayo.mp3"/>
+      <file href="audios/file-I6qFoArb5D0mGCYW-fHBVY1o1.mp3"/>
+      <file href="audios/file-IP9Sv55v.mp3"/>
+      <file href="audios/file-K-J61QSF0NkidGNX.mp3"/>
+      <file href="audios/file-MFvg2Qo-dB_0H4jG.mp3"/>
+      <file href="audios/file-Oyn08WTDGPe8EIrz-ZRo9XCWx.mp3"/>
+      <file href="audios/file-PRj7x4w3J51deHQj.mp3"/>
+      <file href="audios/file-PkwzB96PWtY3l3CJ-ObcujneT.wav"/>
+      <file href="audios/file-QAWt2B1KoIDAysWv.mp3"/>
+      <file href="audios/file-R2v8Q7wrRPnyxazf-vyY46YZg.mp3"/>
+      <file href="audios/file-RMBIl9Lp40kP2zz7.mp3"/>
+      <file href="audios/file-S8bghgfnwxcIizN8-FmwJmur1.mp3"/>
+      <file href="audios/file-SupaRexN_GllhBEp.mp3"/>
+      <file href="audios/file-TppDYbh6.mp3"/>
+      <file href="audios/file-UE8VS305XdMvPKSI.mp3"/>
+      <file href="audios/file-VfiZjnBE.mp3"/>
+      <file href="audios/file-WJ4Slr9yGz_ZoMoQ-fcOZ4pGp-NutvFsII.mp3"/>
+      <file href="audios/file-WYNW28UoVf526xSH.mp3"/>
+      <file href="audios/file-Whs3_QgZPmbcsr_j-60Wrc4ys.mp3"/>
+      <file href="audios/file-XZpKH4QZodXplXVA.mp3"/>
+      <file href="audios/file-YVmB4kX23CM-naYW-8VDsxb4D.mp3"/>
+      <file href="audios/file-aHY5KuXcl1XdUU-_.mp3"/>
+      <file href="audios/file-bJXVstU2a5EKkjEC.mp3"/>
+      <file href="audios/file-bMlsc7ij7q_4WSp9-BABLs1aG.mp3"/>
+      <file href="audios/file-bWP6XuZE.mp3"/>
+      <file href="audios/file-c0CmksDE0oJLzvfc.mp3"/>
+      <file href="audios/file-cUrDg-O48uM77rfE.mp3"/>
+      <file href="audios/file-eYKZXAKUzZn01b5S.mp3"/>
+      <file href="audios/file-ffiL2aJzvH5_jPyr-Blh1stv3.mp3"/>
+      <file href="audios/file-ggfY13sF.wav"/>
+      <file href="audios/file-iFu4XZpuY_P8SQGF-BWrbghPb.mp3"/>
+      <file href="audios/file-ibBoHa8B.mp3"/>
+      <file href="audios/file-jBD-egUDRUNiO4k9-AdZfoI55.mp3"/>
+      <file href="audios/file-jjVIEK9cryg7X-8s.mp3"/>
+      <file href="audios/file-lIywibfJPMw9MFK3.mp3"/>
+      <file href="audios/file-lrVTnTgPLEMQ0MKb.mp3"/>
+      <file href="audios/file-mlxhPyEX5YzvKkih-dCLWCcX8.mp3"/>
+      <file href="audios/file-msNnqCXsZE1dbmLS-YEZfbcEJ.mp3"/>
+      <file href="audios/file-qgFpiLA-ceCIvPBq-oBXY00Ak.mp3"/>
+      <file href="audios/file-ryus7W6d.mp3"/>
+      <file href="audios/file-suFjG2HXsSmfqEBG.mp3"/>
+      <file href="audios/file-sy041XiS.mp3"/>
+      <file href="audios/file-tjbBjekx.mp3"/>
+      <file href="audios/file-uZAjMgQKOyzcg1rC.mp3"/>
+      <file href="audios/file-veQlycnNdhgaC2DZ-oyBjrLfM.mp3"/>
+      <file href="audios/file-vrX4QLkXWMLOoRRR-YTdSoiH1-gDFF3pSy.wav"/>
+      <file href="audios/file-vxLFsBlMiPVKHe_Q-gncbEgNs-5f5hjLAp.mp3"/>
+      <file href="audios/file-yWEIXBNwpdn-swTN.mp3"/>
+      <file href="audios/file-zwSHq4w4G-xWFuKy-NiWXIjgV.mp3"/>
+      <file href="h5p-adaptor.js"/>
+      <file href="images/file-4HviTPd3grP_jjjr.png"/>
+      <file href="images/file-Di_3nxUwvyIA5zRj.jpg"/>
+      <file href="images/file-E-BQc1Dp80cAJVzi.jpg"/>
+      <file href="images/file-K2XCvzEsEn6MVB8f.jpg"/>
+      <file href="images/file-WnEFRExtqwskQWyL.jpg"/>
+      <file href="images/file-c28qVDT-i2q7yQV1.jpg"/>
+      <file href="images/file-m_9-2vyuPX5BqF1Z.jpg"/>
+      <file href="images/file-w881U4KxiPONq1Eh.jpg"/>
+      <file href="images/file-xfZBJLv5n2OKQ8N7.jpg"/>
+      <file href="index.html"/>
+    </resource>
+  </resources>
+</manifest>
